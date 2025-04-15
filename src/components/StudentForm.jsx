@@ -58,7 +58,7 @@ const StudentForm = ({ onSubmit }) => {
     <div className="container py-4">
       <div className="card shadow">
         <div className="card-header bg-primary text-white">
-          <h2 className="mb-0">Student Registration Form</h2>
+          <h2 className="mb-0 text-center fw-bold fs-1">Student Registration Form</h2>
         </div>
         <div className="card-body">
           <form onSubmit={handleSubmit}>
