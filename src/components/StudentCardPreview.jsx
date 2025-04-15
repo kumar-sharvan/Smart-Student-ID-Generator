@@ -44,7 +44,7 @@ const StudentCardPreview = ({ data }) => {
   };
 
   return (
-    <div className="container py-4">
+    <div className="container py-4 mb-5">
       <div className="d-flex justify-content-center mb-4">
         <div
           ref={cardRef}
