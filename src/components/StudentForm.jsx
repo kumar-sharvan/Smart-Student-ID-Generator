@@ -55,7 +55,7 @@ const StudentForm = ({ onSubmit }) => {
   };
 
   return (
-    <div className="container py-4">
+    <div className="container py-4 mb-3">
       <div className="card shadow">
         <div className="card-header bg-primary text-white">
           <h2 className="mb-0 text-center fw-bold fs-1">Student Registration Form</h2>
